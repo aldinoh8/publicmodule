@@ -7,7 +7,7 @@ import (
 )
 
 func Hello(name string) {
-	fmt.Println("Hello ", name)
+	fmt.Println("Hello ", name, "from v0.2.0")
 }
 
 func GetQuote() {
